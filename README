@@ -1,0 +1,10 @@
+Implementation of johnson's algorithm scheduling with qt4 test gui
+
+Build:
+
+qmake && make
+
+Run:
+
+./build/johnson
+
